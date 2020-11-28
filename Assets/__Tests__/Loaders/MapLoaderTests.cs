@@ -231,7 +231,6 @@ namespace Tests {
         }
 
         [Test]
-        [Ignore("Breaking")]
         public void Assert_job_soul_Loads() {
             var stopWatch = new System.Diagnostics.Stopwatch();
             stopWatch.Restart();
@@ -1062,7 +1061,6 @@ namespace Tests {
         }
 
         [Test]
-        [Ignore("Breaks")]
         public void Assert_1_gol2_Loads() {
             var stopWatch = new System.Diagnostics.Stopwatch();
             stopWatch.Restart();
@@ -1763,7 +1761,6 @@ namespace Tests {
         }
 
         [Test]
-        [Ignore("Breaking")]
         public void Assert_job_knt_Loads() {
             var stopWatch = new System.Diagnostics.Stopwatch();
             stopWatch.Restart();
@@ -3664,7 +3661,6 @@ namespace Tests {
         }
 
         [Test]
-        [Ignore("Breaking")]
         public void Assert_1_soul_Loads() {
             var stopWatch = new System.Diagnostics.Stopwatch();
             stopWatch.Restart();
